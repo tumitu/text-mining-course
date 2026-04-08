@@ -22,4 +22,4 @@ https://colab.research.google.com/github/tumitu/text-mining-course/blob/main/col
 上方選單 →「檔案」→「在雲端硬碟中儲存副本」
 （不存副本的話，執行結果不會被保留）
 
-**Step 3：填入 API 金鑰**
+**Step 3：填入 Firecrawl API 金鑰**
